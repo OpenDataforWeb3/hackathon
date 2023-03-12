@@ -1,6 +1,6 @@
-# **Hackacthon**
+# **Hackathon**
 
-This repository served as an archive for all ODC hackathon materials, including entries, instructions, and other related materials.
+This repository serves as an archive for all ODC hackathon materials, including entries, instructions, and other related materials.
 
 ## Resources
 
