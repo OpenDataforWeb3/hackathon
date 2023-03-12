@@ -1,4 +1,4 @@
-# **Hackathon**
+# Hackathon
 
 This repository serves as an archive for all ODC hackathon materials, including entries, instructions, and other related materials.
 
@@ -9,10 +9,8 @@ Join the OpenData Community discord server [here](https://discord.gg/fmcSubzNwv)
 
 Along with that, we have an archive for each hackathon we have hosted, with folders in this repository containing hackathon material and a structured list of submissions sorted by bounty.
 
-- [Inaugural FDD ODC hackathon](https://github.com/OpenDataforWeb3/Jan2023hackathon/tree/main/DataBuilders%20Hackathon%202023)
-- [DataBuilders Hackathon](https://github.com/OpenDataforWeb3/Jan2023hackathon/tree/main/DataBuilders%20Hackathon%202023)
-
-___
+- [October 2022 - Open Data Science Hackathon](October 2022 - Open Data Science Hackathon.md)
+- [January 2023 - DataBuilders Hackathon](January 2023 - DataBuilders Hackathon.md)
 
 You can access OpenData Community resources including relevant FAQs and tips:
 
