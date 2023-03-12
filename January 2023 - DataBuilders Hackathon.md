@@ -1,22 +1,15 @@
-# **DataBuilders Hackathon Submission Archive**
-
+# January 2023 - DataBuilders Hackathon
 The Databuilder Hackathon was a competitive event that brought together data professionals, developers, and enthusiasts to showcase their skills in developing innovative solutions for real-world data problems. The projects submitted in the hackathon covered a wide range of topics, including data integration, processing, visualization, and machine learning. Whether you're a seasoned data professional or a curious enthusiast, I'm here to help you explore the different projects submitted in the hackathon and gain a better understanding of the various approaches and tools used by the participants
 
-## **BOUNTIES**
+To read more go to [Gitcoin Founded OpenData Community kicks off DataBuilder Hackathon](https://gov.gitcoin.co/t/gitcoin-founded-opendata-community-kicks-off-databuilder-hackathon/12489)
 
-___
+## [Official OpenData Community Databuilders Hackathon Details](https://bounties.gitcoin.co/hackathon/DataBuilders/onboard)
+## Bounties
+- [Packaging Algorithms Into Legos](https://bounties.gitcoin.co/issue/29676)
+- [Exploratory Data Analysis Bounty](https://bounties.gitcoin.co/issue/29675)
+- [Hacking On The Hackathon - And The OpenData Community](https://bounties.gitcoin.co/issue/29677)
 
-- ### [Hacking on the Hackathon](#hacking-on-the-hackathon-submissions)
-
-- ### [Packaging Algorithms Into Legos](#packaging-algorithms-into-legos-submissions)
-
-- ### [Exploratory Data Analysis](#exploratory-data-analysis-submissions)
-
-- ### [Anti-Sybil Dashboard for Round Health](#anti-sybil-dashboard-for-round-health-submission)
-
-## **SUBMISSIONS**
-
-___
+## Submissions
 
 ### **Hacking on the Hackathon Submissions**
 
@@ -103,3 +96,13 @@ ___
 |EDA Gitcoin|Exploratory Data Analysis|[Link to project](https://github.com/dspytdao/EDA_Gitcoin)|
 |Exploratory Data Analysis of UNICEF and Fantom grant G-15|Exploratory Data Analysis|[Link to project](https://market.oceanprotocol.com/asset/did:op:7df1cc9918f35163938ca219510a774c9ed80f8331c2743886fc54623acff218)|
 |DataBuild Analysis|Exploratory Data Analysis|[Link to project](https://flipsidecrypto.xyz/mrwildcat/data-build-analysis-examining-the-behavior-of-444-suspect-addresses-8wBnT9)|
+
+## Hackathon Results:
+The OpenData Community hackathon in January of 2023 was judged in early February with bounties distributed by mid-February.
+
+We highlight a few of the themes emerging from the hackathon made possible by the generous support of Gitcoin and our other sponsors and by a growing community of volunteers.
+
+For a slideshow overview of the OpenData Community and the hackathon results - and our immediate plans as well - please take a look here:
+ODC summary with summary of hackathon and immediate plans
+
+To read more go to [OpenData Community Data Builder Hackathon Results](https://gov.gitcoin.co/t/gitcoin-founded-opendata-community-kicks-off-databuilder-hackathon/12489/5)
