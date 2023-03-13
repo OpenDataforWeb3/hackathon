@@ -8,6 +8,7 @@ To read more go to [Gitcoin Founded OpenData Community kicks off DataBuilder Hac
 - [Packaging Algorithms Into Legos](https://bounties.gitcoin.co/issue/29676)
 - [Exploratory Data Analysis Bounty](https://bounties.gitcoin.co/issue/29675)
 - [Hacking On The Hackathon - And The OpenData Community](https://bounties.gitcoin.co/issue/29677)
+- [An Anti-Sybil Dashboard For Round Health](https://bounties.gitcoin.co/issue/29674)
 
 ## Submissions
 
