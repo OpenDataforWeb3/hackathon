@@ -9,8 +9,8 @@ Join the OpenData Community discord server [here](https://discord.gg/fmcSubzNwv)
 
 Along with that, we have an archive for each hackathon we have hosted, with folders in this repository containing hackathon material and a structured list of submissions sorted by bounty.
 
-- [October 2022 - Open Data Science Hackathon](October 2022 - Open Data Science Hackathon.md)
-- [January 2023 - DataBuilders Hackathon](January 2023 - DataBuilders Hackathon.md)
+- [October 2022 - Open Data Science Hackathon](October%202022%20-%20Open%20Data%20Science%20Hackathon.md)
+- [January 2023 - DataBuilders Hackathon](January%202023%20-%20DataBuilders%20Hackathon.md)
 
 You can access OpenData Community resources including relevant FAQs and tips:
 
