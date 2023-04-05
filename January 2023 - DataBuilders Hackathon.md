@@ -67,7 +67,7 @@ ___
 | Project Name | Project Type/Description | Project Link to project |
 | ----------- | ----------- |----------- |
 |Legos hermanos|Grant health dashboard|[Link to project](legos-hermanos.vercel.app/)|
-|GTC Looker|Grant health dashboard|[Link to project](www.grantlooker.xyz/)|
+|GTC Looker|Grant health dashboard|[Link to project](https://www.grantlooker.xyz/)|
 |Sybil Hunter|Grant health dashboard|[Link to project](https://github.com/MitchTODO/Sybil-Hunter)|
 |Anti Sybil Dashboard|Grant health dashboard|[Link to project](https://github.com/TylerDurden177/An-Anti-Sybil-Dashboard-For-Round-Health)|
 |Sybil Lego Dashboard|Grant health dashboard|[Link to project](https://github.com/sandrogomes94/sybil-legos-dashboard)|
